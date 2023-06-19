@@ -81,9 +81,9 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   text1:{
-
+fontSize:22,
   },
   text2:{
-
+fontSize:10,
   },
 });
